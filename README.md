@@ -1,3 +1,4 @@
-# Pract-3---Juego-de-las-tortugas
+# ROBOT TURTLES
 
-EJERCICIO EXPLICADO EN LOS PDFs JUNTO CON LOS ARCHIVOS
+English -> www.robotturtles.com/instructions/
+Spanish -> You can find the code explanations in both .pdf
